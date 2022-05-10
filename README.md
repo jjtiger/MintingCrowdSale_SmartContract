@@ -226,11 +226,7 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
 
 Make sure that your `README.md` file includes screenshots that illustrate the functionality of your contracts as the earlier instructions detailed.
 
-You can also record your interactions with the executed contract as a short video or an animated GIF. To record a video, you can use the following tools:
 
-* If you’re working on macOS, you can create a screen recording by using the built-in QuickTime player. To learn more about this tool, refer to [Use QuickTime Player](https://support.apple.com/en-us/HT208721#quicktime) in the Apple Support documentation.
-
-* If you’re working on Windows 10, you can create a screen recording by using the built-in Xbox Game Bar. To learn more about this tool, refer to [Use Xbox Game Bar to capture game clips and screenshots on Windows 10](https://beta.support.xbox.com/help/friends-social-activity/share-socialize/record-game-clips-game-bar-windows-10) in the Microsoft Support documentation.
 
 * To create an animated GIF, you can use [Recordit](https://recordit.co/) on either macOS or Windows.
 
